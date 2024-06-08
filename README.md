@@ -20,3 +20,9 @@ Welcome to my GitHub page! Here you can find some of the projects I've been work
 git clone https://github.com/Jafar-Abdollahi/project-name.git
 cd project-name
 # Additional installation instructions
+
+Contact
+You can reach me at:
+
+Email: ja.abdollahi77@gmail.com
+LinkedIn: https://www.linkedin.com/in/jafar-abdollahi-7647971b3/
