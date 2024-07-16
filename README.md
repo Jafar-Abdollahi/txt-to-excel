@@ -1,30 +1,13 @@
 # Jafar Abdollahi
 
 <h2> Discription </h2>
+How do I convert TXT to EXCEL? With Aspose.Cells for Python via NET library, you can easily convert TXT to EXCEL programmatically with a few lines of code. Aspose.Cells for Python via NET is capable of building cross-platform applications with the ability to generate, modify, convert, render and print all Excel files. Python Excel API not only convert between spreadsheet formats, it can also render Excel files as images, PDF, HTML, ODS, CSV, SVG, JSON, WORD, PPT and more, thus making it a perfect choice to exchange documents in industry-standard formats.
 
 
+Save TXT to EXCEL in Python Excel Library
+The following example demonstrates how to convert TXT to EXCEL in Python excel library.
 
-<h2> Dataset </h2>
-<img src=" "> 
-<img src=" "> 
-
-
-<h2> Methods </h2>
-<img src=" "> 
-
-
-<h2> GUI </h2>
-<img src=" "> 
-
-
-<h2> Conlusion </h2>
-<img src=" "> 
-<img src=" "> 
-<img src=" "> 
-<img src=" "> 
-
-
-<h2> Paper </h2>
+Follow the easy steps to convert TXT to EXCEL. Upload your TXT file, then simply save it as EXCEL file. For both TXT reading and EXCEL writing you can use fully qualified filenames. The output EXCEL content and formatting will be identical to the original TXT document.
 
 <h2> Contact me </h2>
 You can reach me at:
